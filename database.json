@@ -1,16 +1,19 @@
 {
     "technologies": [
         {
+            "id": 1,
             "name": "JavaScript",
             "img_url": "https://cdn.wikitude.com/static-website/2017/09/26171742/javascript-logo.png"
         },
         {
+            "id": 2,
             "name": "Git",
             "img_url": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
         }
     ],
     "projects": [
         {
+            "id": 1,
             "name": "gameStone",
             "description": "GameStone helps you in discovering new video games based on games you have saved to a dynamic and managable collection of games.",
             "github_url": "https://github.com/RileyMathews/capstone",
