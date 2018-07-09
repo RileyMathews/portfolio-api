@@ -18,6 +18,48 @@
             "description": "GameStone helps you in discovering new video games based on games you have saved to a dynamic and managable collection of games. GameStone was built using the react framework.",
             "github_url": "https://github.com/RileyMathews/capstone",
             "live_url": "http://gamestone.rileymathews.com"
+        },
+        {
+            "id": 2,
+            "name": "dummy",
+            "description": "this is a dummy project to test layout",
+            "github_url": "nowhere",
+            "live_url": "nowhere"
+        },
+        {
+            "id": 3,
+            "name": "dummy",
+            "description": "this is a dummy project to test layout",
+            "github_url": "nowhere",
+            "live_url": "nowhere"
+        },
+        {
+            "id": 4,
+            "name": "dummy",
+            "description": "this is a dummy project to test layout",
+            "github_url": "nowhere",
+            "live_url": "nowhere"
+        },
+        {
+            "id": 5,
+            "name": "dummy",
+            "description": "this is a dummy project to test layout",
+            "github_url": "nowhere",
+            "live_url": "nowhere"
+        },
+        {
+            "id": 6,
+            "name": "dummy",
+            "description": "this is a dummy project to test layout",
+            "github_url": "nowhere",
+            "live_url": "nowhere"
+        },
+        {
+            "id": 7,
+            "name": "dummy",
+            "description": "this is a dummy project to test layout",
+            "github_url": "nowhere",
+            "live_url": "nowhere"
         }
     ]
 }
