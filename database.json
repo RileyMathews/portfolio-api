@@ -15,7 +15,7 @@
         {
             "id": 1,
             "name": "gameStone",
-            "description": "GameStone helps you in discovering new video games based on games you have saved to a dynamic and managable collection of games.",
+            "description": "GameStone helps you in discovering new video games based on games you have saved to a dynamic and managable collection of games. GameStone was built using the react framework.",
             "github_url": "https://github.com/RileyMathews/capstone",
             "live_url": "http://gamestone.rileymathews.com"
         }
