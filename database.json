@@ -13,92 +13,92 @@
         {
             "id": 3,
             "name": "VS Code",
-            "img_url": ""
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"
         },
         {
             "id": 4,
             "name": "Github",
-            "img_url": ""
+            "img_url": "https://image.flaticon.com/icons/svg/25/25231.svg"
         },
         {
             "id": 5,
             "name": "HTML",
-            "img_url": ""
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"
         },
         {
             "id": 6,
             "name": "CSS",
-            "img_url": ""
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/2000px-CSS3_logo_and_wordmark.svg.png"
         },
         {
             "id": 7,
-            "name": "Javascript",
-            "img_url": ""
+            "name": "Heroku",
+            "img_url": "https://cdn.worldvectorlogo.com/logos/heroku.svg"
         },
         {
             "id": 8,
-            "name": "json-server",
-            "img_url": ""
+            "name": "AWS",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2000px-Amazon_Web_Services_Logo.svg.png"
         },
         {
             "id": 9,
             "name": "Node",
-            "img_url": ""
+            "img_url": "https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png"
         },
         {
             "id": 10,
             "name": "NPM",
-            "img_url": ""
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2000px-Npm-logo.svg.png"
         },
         {
             "id": 11,
             "name": "Grunt",
-            "img_url": ""
+            "img_url": "http://www.stickpng.com/assets/images/5847fb60cef1014c0b5e48dc.png"
         },
         {
             "id": 12,
             "name": "React",
-            "img_url": ""
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
         },
         {
             "id": 13,
             "name": "Bulma",
-            "img_url": ""
+            "img_url": "https://bulma.io/images/bulma-logo.png"
         },
         {
             "id": 14,
             "name": "Bootstrap",
-            "img_url": ""
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Boostrap_logo.svg"
         },
         {
             "id": 15,
             "name": "SASS",
-            "img_url": ""
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2000px-Sass_Logo_Color.svg.png"
         },
         {
             "id": 16,
             "name": "Python",
-            "img_url": ""
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png"
         },
         {
             "id": 17,
             "name": "Django",
-            "img_url": ""
+            "img_url": "https://www.djangoproject.com/m/img/logos/django-logo-negative.png"
         },
         {
             "id": 18,
             "name": "Bloomer",
-            "img_url": ""
+            "img_url": "https://bloomer.js.org/dist/07990594.png"
         },
         {
             "id": 19,
             "name": "SQL",
-            "img_url": ""
+            "img_url": "https://banner2.kisspng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg"
         },
         {
             "id": 20,
             "name": "jQuery",
-            "img_url": ""
+            "img_url": "http://pluspng.com/img-png/jquery-logo-png--800.gif"
         }
     ],
     "projects": [
