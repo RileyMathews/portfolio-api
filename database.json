@@ -171,11 +171,5 @@
             "github_url": "nowhere",
             "live_url": "nowhere"
         }
-    ],
-    "about": [
-        {
-            "id": 1,
-            "bio": "test bio"
-        }
     ]
 }
